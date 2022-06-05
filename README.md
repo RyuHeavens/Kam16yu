@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kam16yu
-- 👀 I’m interested in Python, ML, technologies
-- 🌱 I’m currently learning web developing with Django
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Android, ML, GameDEV
+- 🌱 I’m currently Android developing
+- 💞️ I’m looking to 
 - 📫 How to reach me ... 
