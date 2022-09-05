@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kam16yu
 - 👀 I’m interested in Android, ML, GameDEV
 - 🌱 I’m currently Android developing
-- 💞️ I’m looking to 
-- 📫 How to reach me ... 
+- 💞️ I’m looking to learn Flutter
