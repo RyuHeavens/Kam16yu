@@ -1,4 +1,4 @@
-- 👋 Hi, im Vasyl
+- 👋 Hi, im flutter developer
 - 👀 I’m interested in Flutter, Android, ML, GameDEV
 - 🌱 I’m currently in mobile developing.
 - 💞️ I’m looking to remote job with Flutter .
